@@ -1,4 +1,6 @@
 import React from 'react'
+import TextInputComponent from '../../components/Auth/TextInputComponent'
+import CustomButton from '../../components/common/CustomButton'
 
 function Register() {
   return (

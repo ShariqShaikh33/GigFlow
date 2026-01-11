@@ -1,0 +1,1 @@
+export const bidSelector = (state)=> state.Bid;

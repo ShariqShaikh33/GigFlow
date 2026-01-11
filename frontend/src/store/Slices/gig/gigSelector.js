@@ -1,0 +1,1 @@
+export const gigSelector = (state)=> state.Gig;

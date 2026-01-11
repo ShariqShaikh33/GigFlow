@@ -2,7 +2,7 @@ import React from 'react'
 
 function CustomLabel({id,text}) {
   return (
-    <label for={id}>{text}</label>
+    <label htmlFor={id}>{text}</label>
   )
 }
 
