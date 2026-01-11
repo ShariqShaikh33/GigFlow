@@ -1,6 +1,6 @@
 import React from 'react'
 
-function register() {
+function Register() {
   return (
     <div>
       <form>
@@ -13,4 +13,4 @@ function register() {
   )
 }
 
-export default register
+export default Register

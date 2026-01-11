@@ -2,7 +2,7 @@ import React from 'react'
 import TextInputComponent from '../../components/Auth/TextInputComponent'
 import CustomButton from '../../components/common/CustomButton'
 
-function login() {
+function Login() {
   return (
     <div>
       <form>
@@ -14,4 +14,4 @@ function login() {
   )
 }
 
-export default login
+export default Login
